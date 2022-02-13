@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomUser</string>
+    <string name="username">UserName</string>
+    <string name="usergender">userGender</string>
+    <string name="usercity">userCity</string>
+    <string name="todo">TODO</string>
+</resources>
